@@ -18,7 +18,7 @@ O aplicativo em questão possui a funcionalidade que possibilita o usuário pesq
 ## 4. Interface e Design
 Utilizamos o “LinkedIn” como a plataforma de inspiração para desenvolver o aplicativo, na qual ocorreria os estudos mediante grupos criados dentro do mesmo, anúncios de palestras ou assuntos que sejam de interesse do indivíduo etc. Dessa forma, para garantir uma experiência amigável ao usuário escolhemos um design prático e de fácil usabilidade, evitando com que o mesmo fique perdido ao utilizar o aplicativo. Nesse sentido, buscamos evitar adicionar uma quantidade exacerbada de botões e ícones, colocando apenas o necessário para uma boa navegação no App.  Além disso, utilizamos a Psicologia das Cores, ciência que estuda o impacto das cores nas emoções e comportamentos humanos, para selecionar os tons mais apropriados com o objetivo de proporcionar um ambiente confortável para o usuário. Também utilizamos tais cores para destacar ícones, botões e os grupos de estudo presentes na aplicação para facilitar o entendimento da usabilidade do App, deixando-o mais didático.
 
-<p = "left">
+
 <img src = "https://github.com/YasmimGama/EduVerse/blob/main/Tela%201.jpg?raw=true"/>
 
 <img src = "https://github.com/YasmimGama/EduVerse/blob/main/Tela%203.jpg?raw=true"/>
