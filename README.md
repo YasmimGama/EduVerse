@@ -23,12 +23,12 @@
 Atualmente temos um grande volume de dados, o que corrobora para que determinadas pessoas sintam-se perdidas em meio à tanta informação. Portanto, a fim de solucionar este impasse foi criado este aplicativo para ajudar a direcionar o estudo de seus usuários. Isto se dá pois o app busca conectar uma pessoa que possua um maior domínio num assunto escolhido com outro usuário que possui um domínio menor ou até mesmo apenas um conhecimento inicial. Dessa forma, o estudo desse indivíduo viria de uma quantidade reduzida de fontes, evitando com que o mesmo faça buscas em diversas fontes e fique perdido em meio à tantas informações presentes no meio digital.
 
 ## 3. Funcionalidades
-|     Funcionalidade      |     Descrição      |     Funcionalide     |     Descrição     |
+|     Funcionalidade      |     Descrição      |     Funcionalidade     |     Descrição     |
 |:-------------:|:-------------:|:--------------:|:-------------------:|
-| `botão “adicionar` | Permite entrar em diferentes grupos de estudos     | `Campo de pesquisa`    | Possibilita o usuário pesquisar conteúdos  |
-| `botão “postar` | Possibilita postar conteúdos como vídeos ou fotos    | `Chats` | Permite enviar mensagems dentro do App      |
-| `botão configurações` | Permite configurar sua conta, segurança, visibilidade, privacidade, notificações, acessibilidade e Central de Ajuda.         | `aba “vídeo aula`    | O usuário pode assistir as aulas do conteúdo de seu interesse  |
-| `botão “notificações` | Informa sobre conteúdos novos de grupos salvos, novos seguidores e comentários feitos em posts|
+| `botão adicionar` | Permite entrar em diferentes grupos de estudos     | `Campo de pesquisa`    | Possibilita o usuário pesquisar conteúdos  |
+| `botão postar` | Possibilita postar conteúdos como vídeos ou fotos    | `Chats` | Permite enviar mensagems dentro do App      |
+| `botão configurações` | Permite configurar sua conta, segurança, visibilidade, privacidade, notificações, acessibilidade e Central de Ajuda.         | `aba vídeo aula`    | O usuário pode assistir as aulas do conteúdo de seu interesse  |
+| `botão notificações` | Informa sobre conteúdos novos de grupos salvos, novos seguidores e comentários feitos em posts|
 
 ## 4. Interface e Design
 Utilizamos o “LinkedIn” como inspiração para desenvolver o App. Dessa forma, para garantir uma experiência amigável ao usuário escolhemos um design prático e de fácil usabilidade. Logo, buscamos evitar adicionar uma quantidade exacerbada de botões e ícones, colocando apenas o necessário para uma boa navegação. Além disso, utilizamos a Psicologia das Cores, ciência que estuda o impacto das cores nas emoções e comportamentos humanos, para selecionar os tons mais apropriados e proporcionar um ambiente confortável para o usuário. Também utilizamos tais cores para destacar ícones, botões e os grupos de estudo presentes na aplicação para facilitar o entendimento da usabilidade do App, deixando-o mais didático.
@@ -38,3 +38,11 @@ Utilizamos o “LinkedIn” como inspiração para desenvolver o App. Dessa form
 <img src = "https://github.com/YasmimGama/EduVerse/blob/main/Tela%203.jpg?raw=true" width="200" />
 </p>
 
+## 5. Como executar/testar o projeto
+**1.** Copie e cole o código do App no Android Studio;
+
+**2.** Ative o emulador;
+
+**3.** Instale o apk;
+
+**4.** Agora é só abrir o arquivo em seu celular e o App já poderá ser usado.
