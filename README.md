@@ -1,26 +1,40 @@
-# Desenvolvimento de protótipo de App
+# EduVerse - Aplicativo Educacional
+> [!NOTE]
+> Veja a página Web do nosso ReadMe clicando no link abaixo :point_down:
+> 
+
+
 ## 1. Informações Gerais do Projeto
 **•	Nome do Aplicativo:** EduVerse
-
-**•	Descrição:** Na sociedade atual há uma enorme quantidade de dados, o que ocasiona dificuldades no estudo de alguns indivíduos. Dessa maneira, para este trabalho prático, foi criado um aplicativo de cunho educacional, o qual tem como principal objetivo ajudar o usuário que procura estudar um assunto que não compreendeu ou ofertar uma troca de conteúdo em uma matéria que possua maior domínio, contribuindo, assim, para o crescimento mútuo dos mesmos. Logo, o estudante realizaria seus estudos de forma mais direcionada, já que o mesmo se daria por um usuário que possui maior domínio no assunto requerido, evitando assim, com que o indivíduo faça sua busca em várias fontes distintas.
  
-**•	Equipe:** Yasmim Gama (***designer e documentação***), Renato Reis (***designer e programador***), Pedro Augusto (***designer e programador***), Adryel Marcelo (***designer e programador***) e Eduardo Santa Rosa (***programador***).
+**•	Descrição:** Este projeto é um aplicativo de cunho educacional, que busca ajudar usuários que procuram estudar um assunto que não compreenderam ou viabilizar o ensino num conteúdo de uma matéria em que este possua maior domínio, contribuindo para o crescimento mútuo dos mesmos.
+ 
+**•	Equipe:** **Yasmim Gama** (designer e documentação), **Renato Reis** (designer e programador), **Pedro Augusto** (designer e programador), **Adryel Marcelo** (designer e programador) e **Eduardo Santa Rosa** (programador).
 
-**•	Tecnologias Usadas:** Dart como linguagem de programação, junto com seu framework Flutter. Ferramentas de desenvolvimento: Figma, para a criação do design do app, e Visual Studio Code para o desenvolvimento.
+**•	Tecnologias/ferramentas Usadas:** 
+<p align= "left"> 
+<img src = "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src = "https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" />
+</p>
+
 
 ## 2. Objetivos e Problemática do Aplicativo
-Atualmente temos um grande volume de informações a respeito dos mais diversos assuntos. Tal gama de conteúdos, no entanto, corrobora para que determinadas pessoas sintam-se perdidas em meio à tanta informação disponível. Portanto, a fim de solucionar este impasse foi criado este aplicativo para ajudar a direcionar o estudo de seus usuários. Isto se dá pois o app busca conectar uma pessoa que possua um maior domínio no assunto escolhido com outro usuário, o qual possui um domínio menor ou até mesmo apenas um conhecimento inicial. Dessa forma, o estudo desse indivíduo viria de uma quantidade reduzida de fontes, evitando, assim, com que o mesmo faça buscas em diversas fontes e fique perdido em meio à tantas informações presentes no meio digital.
+Atualmente temos um grande volume de dados, o que corrobora para que determinadas pessoas sintam-se perdidas em meio à tanta informação. Portanto, a fim de solucionar este impasse foi criado este aplicativo para ajudar a direcionar o estudo de seus usuários. Isto se dá pois o app busca conectar uma pessoa que possua um maior domínio num assunto escolhido com outro usuário que possui um domínio menor ou até mesmo apenas um conhecimento inicial. Dessa forma, o estudo desse indivíduo viria de uma quantidade reduzida de fontes, evitando com que o mesmo faça buscas em diversas fontes e fique perdido em meio à tantas informações presentes no meio digital.
 
 ## 3. Funcionalidades
-O aplicativo em questão possui a funcionalidade que possibilita o usuário pesquisar, por meio do campo de pesquisa, e entrar em diferentes grupos de estudo, por meio do botão “adicionar”, do assunto que procura aprender. Também há a funcionalidade de postar conteúdos como vídeos ou fotos por meio do botão “postar”, que está localizado dentro da aba “criar” no aplicativo. Além disso, há a aba “vídeo aula” na qual o usuário pode assistir as aulas do conteúdo de seu interesse. Ademais também foram adicionados os botões “notificações”, em que o usuário será informado sobre conteúdos novos de seus grupos salvos, seus novos seguidores e comentários feitos em seus posts, além de um botão “configurações”, o qual permitirá configurar sua conta, segurança da mesma, visibilidade, privacidade, configuração de notificações, de acessibilidade e Central de Ajuda. 
+|     Funcionalidade      |     Descrição      |     Funcionalide     |     Descrição     |
+|:-------------:|:-------------:|:--------------:|:-------------------:|
+| `botão “adicionar` | Permite entrar em diferentes grupos de estudos     | `Campo de pesquisa`    | Possibilita o usuário pesquisar conteúdos  |
+| `botão “postar` | Possibilita postar conteúdos como vídeos ou fotos    | `Chats` | Permite enviar mensagems dentro do App      |
+| `botão configurações` | Permite configurar sua conta, segurança, visibilidade, privacidade, notificações, acessibilidade e Central de Ajuda.         | `aba “vídeo aula`    | O usuário pode assistir as aulas do conteúdo de seu interesse  |
+| `botão “notificações` | Informa sobre conteúdos novos de grupos salvos, novos seguidores e comentários feitos em posts|
 
 ## 4. Interface e Design
-Utilizamos o “LinkedIn” como a plataforma de inspiração para desenvolver o aplicativo. Dessa forma, para garantir uma experiência amigável ao usuário escolhemos um design prático e de fácil usabilidade. Portanto, buscamos evitar adicionar uma quantidade exacerbada de botões e ícones, colocando apenas o necessário para uma boa navegação no App.  Além disso, utilizamos a Psicologia das Cores, ciência que estuda o impacto das cores nas emoções e comportamentos humanos, para selecionar os tons mais apropriados com o objetivo de proporcionar um ambiente confortável para o usuário. Também utilizamos tais cores para destacar ícones, botões e os grupos de estudo presentes na aplicação para facilitar o entendimento da usabilidade do App, deixando-o mais didático.
+Utilizamos o “LinkedIn” como inspiração para desenvolver o App. Dessa forma, para garantir uma experiência amigável ao usuário escolhemos um design prático e de fácil usabilidade. Logo, buscamos evitar adicionar uma quantidade exacerbada de botões e ícones, colocando apenas o necessário para uma boa navegação. Além disso, utilizamos a Psicologia das Cores, ciência que estuda o impacto das cores nas emoções e comportamentos humanos, para selecionar os tons mais apropriados e proporcionar um ambiente confortável para o usuário. Também utilizamos tais cores para destacar ícones, botões e os grupos de estudo presentes na aplicação para facilitar o entendimento da usabilidade do App, deixando-o mais didático.
 
 <p align= "left">
 <img src = "https://github.com/YasmimGama/EduVerse/blob/main/Tela%201.jpg?raw=true" width="211" />
 <img src = "https://github.com/YasmimGama/EduVerse/blob/main/Tela%203.jpg?raw=true" width="200" />
 </p>
 
-## 5. Conclusão
-Portanto, por meio deste trabalho foi possível aperfeiçoar nossos conhecimentos e habilidades na disciplina de Programação – Mobile Coding a partir da prototipação e desenvolvimento das telas do aplicativo abordado. Ademais, ao longo do processo de criação do aplicativo tivemos a oportunidade de aprender mais sobre a criação de aplicativos Android e seu funcionamento. Além disso, ao sermos expostos a este projeto também desenvolvemos nossas soft skills, como trabalho em equipe, comunicação, empatia etc, sendo estas essenciais para a conclusão do trabalho proposto. Desta maneira, o objetivo do projeto foi cumprido, pois o app atende aos requisitos estipulados, como foi possível se constatar a partir do App e das fotos disponibilizadas, além da explanação e observação de suas funcionalidades.
