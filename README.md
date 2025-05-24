@@ -1,4 +1,9 @@
-# EduVerse - Aplicativo Educacional
+<div align="center">
+   <img width=100% src= "https://capsule-render.vercel.app/api?type=waving&height=250&color=5ac8fa&text=EduVerse&fontColor=ffffff&fontSize=55&fontAlignY=42" />
+</div>
+
+# EduVerse - Aplicativo Educacional 
+
 > [!NOTE]
 > Veja a página Web do nosso ReadMe clicando no link abaixo :point_down:
 > 
