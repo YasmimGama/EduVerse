@@ -49,8 +49,8 @@ Utilizamos o “LinkedIn” como inspiração para desenvolver o App. Dessa form
 </p>
 
 ## 5. Como executar/testar o projeto
-**1.** Faça o download do código do App;
+**1.** Faça o download das pastas/arquivos do repositório;
 
-**2.** Abra o código com o Android Studio;
+**2.** Abra-os com o Android Studio;
 
 **3.** Ative o emulador e o App estará pronto para ser executado;
