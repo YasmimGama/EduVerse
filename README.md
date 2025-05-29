@@ -40,6 +40,13 @@ Atualmente há um grande volume de dados, o que deixa algumas pessoas perdidas e
 | **botão configurações** | Permite configurar sua conta, segurança, visibilidade, privacidade, notificações, acessibilidade e Central de Ajuda.         | **aba vídeo aula**    | O usuário pode assistir as aulas do conteúdo de seu interesse  |
 | **botão notificações** | Informa sobre conteúdos novos de grupos salvos, novos seguidores e comentários feitos em posts|
 
+### 3.1. Funcionalidades Futuras
+• **Gamificação no App:** Incluiríamos elementos da gamificação, como desafios semanais, pontuação, níveis e medalhas, para incentivar os usuários a se manterem engajados no aplicativo. Além disso, também seriam adicionadas recompenas por ensinar ou aprender algo com sucesso, dando a sensação de progresso e, portanto, aumentando a motivação do usuário.
+
+• **Recomendações personalizadas:** Implementaríamos recomendações que levariam em conta o histórico de estudos, as interações e interesses do usuário. Logo, o App poderá sugerir contúdos, professores ou assuntos que se encaixam com suas preferências. Portanto, com isso será possível criar trilhas de estudo personalizadas para cada usuário, deixando seu aprendizado mais eficiente.
+
+• **Salas de estudo ao vivo:** Os usuários poderiam criar ou participar de aulas em tempo real com um chat e videochamada incluídos, ajudando na troca de conhecimento em grupo.
+
 ## 4. Interface e Design
 <div align="justify">
 Utilizamos o “LinkedIn” como inspiração para desenvolver o App. Dessa forma, para garantir uma experiência amigável ao usuário escolhemos um design prático e de fácil usabilidade. Logo, buscamos evitar adicionar uma quantidade exacerbada de botões e ícones, colocando apenas o necessário para uma boa navegação. Além disso, utilizamos a Psicologia das Cores, ciência que estuda o impacto das cores nas emoções e comportamentos humanos, para selecionar os tons mais apropriados e proporcionar um ambiente confortável para o usuário. Também utilizamos tais cores para destacar ícones, botões e os grupos de estudo presentes na aplicação para facilitar o entendimento da usabilidade do App, deixando-o mais didático.
@@ -51,8 +58,18 @@ Utilizamos o “LinkedIn” como inspiração para desenvolver o App. Dessa form
 </p>
 
 ## 5. Como executar/testar o projeto
-**1.** Faça o download das pastas/arquivos do repositório;
+**1. Faça o download das pastas/arquivos do repositório;**
 
-**2.** Abra-os com o Android Studio;
+Acesse o nosso repositório do EduVerse e faça o download de todos os arquivos e pastas do projeto. Você pode fazer isso usando a opção de download direto (baixando como um arquivo .zip) ou clonando o repositório usando o Git.
 
-**3.** Ative o emulador e o App estará pronto para ser executado;
+**2. Abra-os com o Android Studio;**
+
+Inicie o Android Studio e na tela inicial selecione a opção "Abrir um Projeto Existente". Vá até o local onde você salvou os arquivos do EduVerse e selecione a pasta principal do projeto para abri-lo.
+
+**3. Configure e inicie o seu emulador;**
+
+No seu Android Studio abra o AVD Manager e selecione um dispositivo virtual da sua escolha ou crie um novo. Depois de configurar clique em "play" para iniciar o emulador.
+
+**4. Execute o aplicativo.**
+
+Deixe seu emulador em execução e clique no botão "run" para compilar e instalar o EduVerse nele. O aplicativo será iniciado automaticamente após a instalação.
