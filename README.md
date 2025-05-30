@@ -41,11 +41,14 @@ Atualmente há um grande volume de dados, o que deixa algumas pessoas perdidas e
 | **botão notificações** | Informa sobre conteúdos novos de grupos salvos, novos seguidores e comentários feitos em posts|
 
 ### 3.1. Funcionalidades Futuras
+<div align="justify">
+
 • **Gamificação no App:** Incluiríamos elementos da gamificação, como desafios semanais, pontuação, níveis e medalhas, para incentivar os usuários a se manterem engajados no aplicativo. Além disso, também seriam adicionadas recompenas por ensinar ou aprender algo com sucesso, dando a sensação de progresso e, portanto, aumentando a motivação do usuário.
 
 • **Recomendações personalizadas:** Implementaríamos recomendações que levariam em conta o histórico de estudos, as interações e interesses do usuário. Logo, o App poderá sugerir contúdos, professores ou assuntos que se encaixam com suas preferências. Portanto, com isso será possível criar trilhas de estudo personalizadas para cada usuário, deixando seu aprendizado mais eficiente.
 
 • **Salas de estudo ao vivo:** Os usuários poderiam criar ou participar de aulas em tempo real com um chat e videochamada incluídos, ajudando na troca de conhecimento em grupo.
+</div>
 
 ## 4. Interface e Design
 <div align="justify">
