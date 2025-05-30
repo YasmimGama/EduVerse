@@ -57,7 +57,10 @@ Utilizamos o “LinkedIn” como inspiração para desenvolver o App. Dessa form
 <img src = "https://github.com/YasmimGama/EduVerse/blob/main/Tela%203.jpg?raw=true" width="200" />
 </p>
 
-## 5. Como executar/testar o projeto
+## 5. Link Para a Documentação do Flutter
+:page_with_curl: https://docs.flutter.dev/#docs
+
+## 6. Como Executar/Testar o Projeto
 **1. Faça o download das pastas/arquivos do repositório;**
 
 Acesse o nosso repositório do EduVerse e faça o download de todos os arquivos e pastas do projeto. Você pode fazer isso usando a opção de download direto (baixando como um arquivo .zip) ou clonando o repositório usando o Git.
