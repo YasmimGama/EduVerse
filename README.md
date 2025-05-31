@@ -35,10 +35,10 @@ Atualmente há um grande volume de dados, o que deixa algumas pessoas perdidas e
 ## 3. Funcionalidades
 |     `Funcionalidade`      |     `Descrição`      |     `Funcionalidade`    |     `Descrição`     |
 |:-------------:|:-------------:|:--------------:|:-------------------:|
-| **botão adicionar** | Permite entrar em diferentes grupos de estudos     | **Campo de pesquisa**    | Possibilita o usuário pesquisar conteúdos  |
-| **botão postar** | Possibilita postar conteúdos como vídeos ou fotos    | **Chats** | Permite enviar mensagems dentro do App      |
-| **botão configurações** | Permite configurar sua conta, segurança, visibilidade, privacidade, notificações, acessibilidade e Central de Ajuda.         | **aba vídeo aula**    | O usuário pode assistir as aulas do conteúdo de seu interesse  |
-| **botão notificações** | Informa sobre conteúdos novos de grupos salvos, novos seguidores e comentários feitos em posts|
+| **Botão adicionar** | Permite entrar em diferentes grupos de estudos     | **Campo de pesquisa**    | Possibilita o usuário pesquisar conteúdos  |
+| **Botão postar** | Possibilita postar conteúdos como vídeos ou fotos    | **Chats** | Permite enviar mensagems dentro do App      |
+| **Botão configurações** | Permite configurar sua conta, segurança, visibilidade, privacidade, notificações, acessibilidade e Central de Ajuda.         | **Aba vídeo aula**    | O usuário pode assistir as aulas do conteúdo de seu interesse  |
+| **Botão notificações** | Informa sobre conteúdos novos de grupos salvos, novos seguidores e comentários feitos em posts|
 
 ### 3.1. Funcionalidades Futuras
 <div align="justify">
