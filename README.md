@@ -56,8 +56,12 @@ Utilizamos o “LinkedIn” como inspiração para desenvolver o App. Dessa form
 </div>
 <br/>
 <p align= "left">
-<img src = "https://github.com/YasmimGama/EduVerse/blob/main/Tela%201.jpg?raw=true" width="211" />
-<img src = "https://github.com/YasmimGama/EduVerse/blob/main/Tela%203.jpg?raw=true" width="200" />
+<img src = "https://github.com/YasmimGama/EduVerse/blob/main/EduVerse%20-%20Tela%20in%C3%ADcio.jpeg?raw=true" width="160" />
+<img src = "https://github.com/YasmimGama/EduVerse/blob/main/EduVerse%20-%20Tela%20v%C3%ADdeo.jpeg?raw=true" width="160" />
+<img src = "https://github.com/YasmimGama/EduVerse/blob/main/EduVerse%20-%20Tela%20grupos.jpeg?raw=true" width="160" />
+<img src = "https://github.com/YasmimGama/EduVerse/blob/main/EduVerse%20-%20Tela%20chats.jpeg?raw=true" width="160" />
+<img src = "https://github.com/YasmimGama/EduVerse/blob/main/EduVerse%20-%20Tela%20perfil.jpeg?raw=true" width="160" />
+<img src = "https://github.com/YasmimGama/EduVerse/blob/main/EduVerse%20-%20Tela%20configura%C3%A7%C3%B5es.jpeg?raw=true" width="160" />
 </p>
 
 ## 5. Link Para a Documentação do Flutter
